@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="ja">
+
+
+<head>
+<meta charset="utf-8">
+<title></title>
+<link rel="stylesheet" href="./css/reset.css">
+<link rel="stylesheet" href="./css/sample.css">
+</head>
+
+
+<body>
+  <header>
+    <p>テキストテキストテキストテキストテキストyagishita</p>
+  </header>
+
+
+  <div class ="BAAA">
+    <img class="BAAA-logo" src="./images/logo.gif" alt="NO">
+    <div class ="BAAA-icon">
+      <p>会社概要</p>
+      <p>事業紹介</p>
+      <p>採用情報</p>
+      <p>お問い合わせ</p>
+    </div>
+  </div>
+
+  <main>
+    <img class ="main-back" src="./images/main.jpg" alt="NO" >
+  </main>
+
+  <div class="contents">
+    <div class="news">
+      <div class="news-logo">
+        <h2>お知らせ</h2>
+      </div>
+      <div class="news-contents">
+        <div class ="nc1">
+           <div class="nc11">
+             <p>2013年10月20日</p>
+           </div>
+           <div class ="nc12">
+             <p>テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト</p>
+           </div>
+        </div>
+        <div class ="nc2">
+           <div class="nc21">
+             <p>2013年10月20日</p>
+           </div>
+           <div class="nc22">
+             <p>テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト</p>
+           </div>
+        </div>
+        <div class ="nc3">
+           <div class="nc31">
+             <p>2013年10月20日</p>
+           </div>
+           <div class="nc32">
+             <p>テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト</p>
+           </div>
+        </div>
+      </div>
+    </div>
+
+     <div class="bana">
+       <p>バナー</p>
+       <img  src="./images/banner.jpg" alt="NO">
+       <img  src="./images/banner.jpg" alt="NO">
+     </div>
+  </div>
+
+  <footer>
+    <img class="footer-logo"  src="./images/nanika.gif" alt="NO">
+    <h2>Nanika取得しています</h2>
+    当社はお客様から取得する個人情報をNAnikaに使用してます。
+    <p>Copyright(C) 2013 BAAA Corporation All Rights Reserved.</p>
+  </footer>
+</body>
+</html>

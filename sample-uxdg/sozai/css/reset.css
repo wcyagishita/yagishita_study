@@ -1,0 +1,114 @@
+@charset "utf-8";
+/*=======================================
+「reset.css」には各タグの初期値を設定しています。
+=======================================*/
+
+/*******************************************
+Font-size Adjustment
+8px	62%
+9px  	70%
+10px	77%
+11px	85%
+12px	93%
+13px	100%
+14px	108%
+15px	116%
+16px	124%
+17px	131%
+18px	139%
+19px	147%
+20px	154%
+21px	162%
+22px	170%
+23px	177%
+24px	185%
+25px	193%
+26px	200%
+27px	208%
+28px	216%
+29px	224%
+30px	231%
+********************************************/
+
+/*---------------------------------------
+Reset
+----------------------------------------*/
+html, body, 
+h1, h2, h3, h4, h5, h6, 
+div, p, dl, dt, dd, ol, ul, li, 
+span, a, strong, em, b, i, hr, del, dfn, img, ins, kbd, q, samp, small, sub, sup, var, 
+table, caption, tbody, tfoot, thead, tr, th, td, 
+fieldset, form, label, legend,
+object, iframe, blockquote, pre, abbr, address, cite, code, 
+article, aside, canvas, details, figcaption, figure, 
+footer, header, main, menu, nav, section, summary,
+time, mark, audio, video {
+	margin:0;
+	padding:0;
+	border:0;
+	outline:0;
+	font-size:100%;
+	font-weight:normal;
+	vertical-align:baseline;
+	background:transparent;
+}
+
+:focus {
+	outline:0;
+}
+
+html { 
+	overflow-y:scroll;
+}
+
+body {
+	font-family:"メイリオ", Meiryo, Arial, Roboto, "Droid Sans", "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "ＭＳ Ｐゴシック", "Hiragino Kaku Gothic ProN",   Arial, Helvetica, sans-serif;
+	font-size:13px;
+	*font-size:medium;
+	*font:x-small;
+	font-size:medium\9;
+	line-height:1.3;
+	color:#333;
+	-webkit-text-size-adjust:100%;
+}
+
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+body {
+	font-size:medium;
+}
+}
+
+header, main, menu, nav, section, article, aside, details, figcaption, figure, footer { 
+	display:block;
+}
+
+input, select, textarea, option, optgroup {
+	vertical-align:middle;
+	font-family:"メイリオ", "ヒラギノ角ゴ Pro W3", "ＭＳ Ｐゴシック", Arial, Helvetica, sans-serif !important;
+	font-size:100%;
+	font-weight:normal;
+}
+
+input[type="password"] {
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+img {
+	border:0;
+}
+
+strong {
+	font-weight:bold;
+}
+
+table {
+	border-collapse:collapse;
+}
+
+ul, ol {
+	list-style:none;
+}
+
+em, address {
+	font-style:normal;
+}

@@ -1,0 +1,36 @@
+header{
+  width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+   font-size: 30px;
+   height: 30px;
+   margin-top: 30px;
+   margin-bottom: 30px;
+}
+ul{
+   font-size: 14px;
+   display: inline-block;
+   text-align:center;
+}
+li{
+  display: inline-block;
+  font-weight: bold;
+  margin-left: 20px
+}
+.head{
+   height: 14px;
+   background-color: #006699;
+   margin-left: auto;
+   margin-right: auto;
+}
+body{
+  min-width: 1000px;
+  min-height: 1000px;
+
+}
+main{
+  width: 960px;
+  height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}

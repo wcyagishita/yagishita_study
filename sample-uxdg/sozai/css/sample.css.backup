@@ -1,0 +1,117 @@
+header{
+  font-size : 10px;
+  background : #006699;
+  color : white;
+  }
+
+header p{
+  padding : 0 auto;
+  }
+
+.BAAA{
+   margin : 0 auto;
+   width : 960px;
+  }
+
+.BAAA-logo{
+  float : left;
+  padding : 30px 30px;
+
+  }
+
+.BAAA-icon{
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  padding: 30px 0px;
+  margin: 0;
+  }
+
+.BAAA-icon p{
+  font-size : 14px;
+  font-weight : bold;
+  display : inline-block;
+  }
+
+main{
+  margin : 0 auto;
+  width : 960px;
+  }
+
+.contents{
+  margin : 30px auto;
+  width : 960px;
+  overflow:hidden;
+  }
+
+.news{
+  float : left;
+  width : 700px;
+  }
+
+.news-logo{
+  float : left;
+  font-size : 16px;
+  border-bottom : 3px solid #006699;
+ }
+
+.news-contents{
+  overflow:hidden;
+  }
+
+.nc1{
+margin-top : 30px;
+
+}
+
+.nc11{
+  float : left;
+  width :140px;
+  }
+
+
+.nc12{
+  float : right;
+  width : 560px;
+  }
+
+
+.nc2{
+margin-top : 15px;
+
+}
+
+.nc21{
+  margin-top : 30px;
+  }
+
+.nc3{
+margin-top : 15px;
+
+}
+
+
+
+.bana{
+  float : right;
+  width : 220px;
+  }
+
+.bana p{
+  background : #006699
+  }
+
+
+footer{
+  margin: 0px auto;
+  width : 960px;
+  }
+
+footer-logo{
+  float : left;
+  }
+
+
+footer p{
+  float : right;
+  }
