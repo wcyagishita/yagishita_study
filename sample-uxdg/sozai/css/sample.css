@@ -23,6 +23,12 @@ li{
    margin-left: auto;
    margin-right: auto;
 }
+.headText{
+   width: 960px;
+   color: #FFFFFF;
+   margin-left: auto;
+   margin-right: auto;
+}
 body{
   min-width: 1000px;
   min-height: 1000px;
