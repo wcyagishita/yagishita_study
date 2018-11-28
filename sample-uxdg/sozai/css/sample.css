@@ -30,13 +30,42 @@ li{
    margin-right: auto;
 }
 body{
-  min-width: 1000px;
-  min-height: 1000px;
-
+  width: 1000px;
+  height: 1500px;
+overflow: hidden;
 }
 main{
   width: 960px;
-  height: 300px;
+  height: 900px;
   margin-left: auto;
   margin-right: auto;
+  }
+.ichise{
+  float: left;
+  width: 700px;
+  height: 200px;
+  }
+.yagishita{
+  font-size: 16px;
+  border-bottom: solid 3px;
+  border-color: #006699;
+}
+.tamura{
+  float: right;
+  width: 220px;
+  height: 200px;
+}
+.tamura1{
+  width:220px;
+  height:25px;
+  background-color: #006699;
+  color: #FFFFFF;
+  font-weight: bold;
+  text-align: center;
+}
+.tamura2{
+  margin-top: 10px;
+}
+.tamura3{
+  margin-top: 10px;
 }
