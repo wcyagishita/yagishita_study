@@ -50,6 +50,24 @@ main{
   border-bottom: solid 3px;
   border-color: #006699;
 }
+.yagishita1{
+  width: 700px;
+  height: 75px;
+  margin-top: 15px;
+  border-bottom: solid 1px;
+  border-color: #CCC;
+}
+.yagishita2{
+  width: 140px;
+  height: 75px;
+  float: left;
+}
+.yagishita3{
+  width: 560px;
+  height: 75px;
+  float: right;
+}
+
 .tamura{
   float: right;
   width: 220px;
@@ -68,4 +86,13 @@ main{
 }
 .tamura3{
   margin-top: 10px;
+}
+.footer{
+  height: 40px
+}
+.miyaoka1{
+  float: left;
+}
+.miyaoka2{
+  float:left;
 }
