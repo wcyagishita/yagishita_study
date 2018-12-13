@@ -30,13 +30,13 @@ li{
    margin-right: auto;
 }
 body{
-  width: 1000px;
-  height: 1500px;
+  width: 1500px;
+  height: 1100px;
 overflow: hidden;
 }
 main{
   width: 960px;
-  height: 900px;
+  height: 700px;
   margin-left: auto;
   margin-right: auto;
   }
@@ -87,12 +87,23 @@ main{
 .tamura3{
   margin-top: 10px;
 }
-.footer{
-  height: 40px
+footer{
+  height: 40px;
+  width: 960px;
+  border-top: solid 1px;
+  border-color: #CCC;
+  padding-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .miyaoka1{
   float: left;
 }
 .miyaoka2{
   float:left;
+}
+.miyaoka3{
+  float:right;
+  font-size: 12px;
+  color: #666
 }
